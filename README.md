@@ -1,1 +1,2 @@
-# bootstrap-project
+# Euro-Travels
+A Free Responsive Agency Template 
